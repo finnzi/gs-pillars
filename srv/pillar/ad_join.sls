@@ -1,10 +1,10 @@
 #!yaml|gpg
-ad:
-  domain:
+adX:
+  domainX:
     gskulas.dom
-  username:
+  usernameX:
     'svc-saltstack'
-  password: |
+  passwordX: |
     -----BEGIN PGP MESSAGE-----
     
     hF4DNGEVWCBg4O0SAQdAR5bAK+JlSokqNvvABxdRfSFMKlEzVrtJLidXxDvG5yYw
@@ -14,5 +14,5 @@ ad:
     ASv9EY86XF0=
     =z2Uz
     -----END PGP MESSAGE-----
-  allowed_group:
+  allowed_groupX:
     'res-linux-administrators'
