@@ -1,3 +1,3 @@
 base:
   '*':
-    - ad_joinX 
+    - ad_join
